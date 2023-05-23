@@ -16,6 +16,8 @@ altair = "~=4.2.2"
 vega = "*"
 vega-datasets = "*"
 watchdog = "*"
+openai = "*"
+tiktoken = "*"
 
 [dev-packages]
 black = "*"

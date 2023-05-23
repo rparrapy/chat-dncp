@@ -166,3 +166,4 @@ dummy.py
 *.csv
 .DS_Store
 *.pdf
+.vscode

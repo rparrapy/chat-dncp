@@ -6,8 +6,6 @@ name = "pypi"
 [packages]
 langchain = "*"
 streamlit = "*"
-unstructured = {extras = ["local-inference"], version = "*"}
-detectron2 = {ref = "v0.6", git = "https://github.com/facebookresearch/detectron2.git"}
 sentence-transformers = "*"
 faiss-cpu = "*"
 pypdf2 = "*"
